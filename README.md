@@ -1,0 +1,2 @@
+# solnovaairdrop
+A SOL airdrop.
